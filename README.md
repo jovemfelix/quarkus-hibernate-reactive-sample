@@ -1,5 +1,7 @@
 # code-with-quarkus
 
+> Implementation reference: https://developers.redhat.com/articles/2022/01/06/simplify-java-persistence-using-quarkus-and-hibernate-reactive#test_the_reactive_application
+
 #### Selected Extensions
 
  * RESTEasy Reactive
@@ -69,3 +71,9 @@ If you want to learn more about building native executables, please consult http
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+
+
+# Reference
+
+* https://developers.redhat.com/articles/2022/01/06/simplify-java-persistence-using-quarkus-and-hibernate-reactive#test_the_reactive_application
